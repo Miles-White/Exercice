@@ -1,7 +1,7 @@
 #include <stdio.h>      // Bibliothèque standard pour les fonctions d'entrée-sortie comme printf et scanf
 #include <unistd.h>     // API POSIX pour la fonction sleep
-#include "O:\INFO1\Bib_INFO1.h" // Fichier d'en-tête personnalisé (non utilisé explicitement dans ce code)
-#include <math.h>       // Bibliothèque mathématique (non utilisée dans ce code)
+#include "O:\INFO1\Bib_INFO1.h" //Librairy personnalisé
+#include <math.h>       // Bibliothèque mathématique
 
 // Déclaration des variables globales
 int mot_de_passe = 2345; // Le mot de passe correct
