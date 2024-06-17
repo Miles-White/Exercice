@@ -1,7 +1,7 @@
 #include <stdio.h>      // Bibliothèque standard pour les fonctions d'entrée-sortie comme printf
 #include <unistd.h>     // API POSIX pour la fonction sleep
-#include "O:\INFO1\Bib_INFO1.h" // Fichier d'en-tête personnalisé (probablement pour gotoXY, kbhit, et FlushConsoleInputBuffer)
-#include <math.h>       // Bibliothèque mathématique (bien que non utilisée dans ce code)
+#include "O:\INFO1\Bib_INFO1.h" // Librairy personnalise
+#include <math.h>       // Bibliothèque mathématique
 
 // Fonction principale - point d'entrée du programme
 int main()
